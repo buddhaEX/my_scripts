@@ -17,11 +17,14 @@ gnome-terminal \
 gnome-terminal-data \
 gnome-calendar \
 timeshift \
-thunderbird
+thunderbird \
+xviewer \
+nemo
+
 
 sudo rm -rf \
 /usr/lib/python3/dist-packages/redshift_gtk \
 /etc/libreoffice/registry \
 /usr/lib/python3/dist-packages/blueman/ \
 /usr/lib/x86_64-linux-gnu/rhythmbox/ \
-
+/usr/lib/xviewer
